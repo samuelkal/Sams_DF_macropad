@@ -21,7 +21,7 @@ The hackpad features a compact layout with:
 
 The schematic shows how all the components are connected, including rows/columns for the keys, the OLED display, and the rotary encoder.
 
-![Schematic](/pictures/schematic.png)
+![Schematic](https://i.imgur.com/3TPDfmo.png)
 
 ---
 
@@ -29,8 +29,8 @@ The schematic shows how all the components are connected, including rows/columns
 
 A screenshot of the PCB layout with component placement annotations.
 
-![PCB Layout](/pictures/kiPCB.png)
-![PCB Layout](/pictures/PCB.png)
+![PCB Layout](https://i.imgur.com/Y9XwnsQ.png)
+![PCB Layout](https://i.imgur.com/UBnd58N.png)
 
 ---
 
@@ -38,7 +38,7 @@ A screenshot of the PCB layout with component placement annotations.
 
 The custom case demonstrates how the PCB and components fit together. This design features mounting points for the RP2040, rotary encoder, and OLED display.
 
-![Case Design](/pictures/case.png)
+![Case Design](https://i.imgur.com/b3M2yuL.png)
 
 ---
 
