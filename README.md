@@ -51,8 +51,6 @@ The custom case demonstrates how the PCB and components fit together. This desig
 | Diodes (1N4148) | 6 | For key matrix |
 | EC11 Rotary Encoder | 1 | With push button |
 | OLED Display (SSD1306, 128×32) | 1 | I2C interface |
-| Resistors | As needed | For encoder pull-ups and pull-downs |
-| Capacitors | As needed | Decoupling and filtering |
 | PCB | 1 | Custom design (KiCad) |
 | Case | 1 | 3D printed |
 
