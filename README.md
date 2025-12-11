@@ -59,6 +59,6 @@ The custom case demonstrates how the PCB and components fit together. This desig
 
 
 ## Notes 
-Hello! i really enjoyed this project, even when i was very scared to do everything right. and make no mistakes. this took me like 4 days to complete. please tell me if anything is wrong and ill fix it ASAP. the firmware is not full because i never done hw and dont know much about how it works. THANKS!
+Hello! i really enjoyed this project, even when i was very scared to do everything right. and make no mistakes. this took me like 4 days to complete. please tell me if anything is wrong and ill fix it ASAP. the firmware is not full because i never done hw and dont know much about how it works. THANKS!(spent about 20 hours)
 
 ---
