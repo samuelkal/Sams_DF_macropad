@@ -1,0 +1,9 @@
+Part,Quantity,Notes
+Microcontroller (RP2040),1,Main controller
+Switches,6,For the 2×3 layout
+Diodes (1N4148),6,For key matrix
+EC11 Rotary Encoder,1,With push button
+"OLED Display (SSD1306, 128×32)",1,I2C interface
+PCB,1,Custom design (KiCad)
+Case,1,3D printed
+SK6812MINI-E RGB LEDs,4,LED
